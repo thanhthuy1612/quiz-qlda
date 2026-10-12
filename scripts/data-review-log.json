@@ -1,0 +1,380 @@
+[
+ {
+  "section": "Assessment Test",
+  "number": 44,
+  "kind": "explanation",
+  "field": "explanation_vi",
+  "reason": "In PMBOK 3rd, 'communications methods' is a tool of Manage Stakeholders only. Information Distribution uses communication skills and information distribution methods, so naming it here is a factual error."
+ },
+ {
+  "section": "Assessment Test",
+  "number": 56,
+  "kind": "explanation",
+  "field": "explanation_vi",
+  "reason": "Current text says Contract Closure is usually done BEFORE Close Project and concludes 'so D is false', but D states Close Project is performed after Contract Closure; that reasoning would make D true. Self-contradictory explanation."
+ },
+ {
+  "section": "Chapter 1 - What Is a Project?",
+  "number": 13,
+  "kind": "translation",
+  "field": "question_vi",
+  "reason": "The word 'possesses' got lost: 'có' and 'có thể' were merged, so the current Vietnamese reads 'the authority a PM can relate to' instead of 'the authority a PM possesses can be related to'."
+ },
+ {
+  "section": "Chapter 2 - Creating the Project Charter and Preliminary Scope Statement",
+  "number": 7,
+  "kind": "explanation",
+  "field": "explanation_vi",
+  "reason": "Current text says 'Strategic plan và SOW là thành phần của project SOW', which is circular (SOW as a component of itself). Strategic plan is a SOW component; the SOW itself is a separate input, not an OPA."
+ },
+ {
+  "section": "Chapter 3 - Developing the Project Scope Statement",
+  "number": 14,
+  "kind": "explanation",
+  "field": "explanation_vi",
+  "reason": "Câu cuối hiện tại viết \"nên B là đáp án sai\". Học viên có thể hiểu là \"B là lựa chọn sai\", trái với đáp án đã lưu là B. Bản sửa nói rõ B là phát biểu không đúng và là đáp án cần chọn."
+ },
+ {
+  "section": "Chapter 4 - Creating the WBS and Communicating the Plan",
+  "number": 12,
+  "kind": "explanation",
+  "field": "explanation_vi",
+  "reason": "Current text says PMIS is a tool of Information Distribution. In PMBOK 3rd, Information Distribution's tools are communications skills, information gathering/retrieval systems, distribution methods, and the lessons learned process. PMIS belongs to the Integration processes."
+ },
+ {
+  "section": "Chapter 4 - Creating the WBS and Communicating the Plan",
+  "number": 4,
+  "kind": "translation",
+  "field": "question_vi",
+  "reason": "The Vietnamese condenses the scenario and leaves out a whole English sentence (national effort, stores stocked before the ad blitz), plus 'Your company'. The replacement is a full translation."
+ },
+ {
+  "section": "Chapter 4 - Creating the WBS and Communicating the Plan",
+  "number": 7,
+  "kind": "translation",
+  "field": "question_vi",
+  "reason": "The Vietnamese leaves out the English sentence saying the nightclubs specialize in live country and western band performances. The replacement is a full translation."
+ },
+ {
+  "section": "Chapter 5 - Risk Planning",
+  "number": 4,
+  "kind": "translation",
+  "field": "question_vi",
+  "reason": "The translation drops 'regarding this question'. The answer depends on it: D is true in general but is not about this scenario, which uses normal/lognormal distributions. The explanation also relies on this phrase."
+ },
+ {
+  "section": "Chapter 6 - Resource Planning",
+  "number": 16,
+  "kind": "translation",
+  "field": "question_vi",
+  "reason": "The current Vietnamese drops several sentences of the English scenario: the registration/legal-age requirement, testing with Grapevine's existing database, and the module being untestable until data is loaded. The meaning of the question is unchanged, but the translation is incomplete."
+ },
+ {
+  "section": "Chapter 6 - Resource Planning",
+  "number": 19,
+  "kind": "translation",
+  "field": "question_vi",
+  "reason": "The current Vietnamese leaves out two English sentences: 'a nationwide toy store chain' and the prototype display at several stores. The answer does not depend on them, but the translation is incomplete."
+ },
+ {
+  "section": "Chapter 7 - Creating the Project Schedule and Budget",
+  "number": 8,
+  "kind": "explanation",
+  "field": "explanation_vi",
+  "reason": "In the scanned Q8 diagram (and img/ch7-q8.png) G has arrows to both E and H, same as Q9. The claim that G does not link to E and path D does not exist is false; A-F-G-E-H = 33. image_alt for Q8 has the same error. Answer B is unchanged."
+ },
+ {
+  "section": "Chapter 7 - Creating the Project Schedule and Budget",
+  "number": 8,
+  "kind": "translation",
+  "field": "question_vi",
+  "reason": "The Vietnamese drops the whole company/scenario description (shades, hotel chains, home market, retail stores and website, managing the new project). Only the last two sentences were translated."
+ },
+ {
+  "section": "Chapter 7 - Creating the Project Schedule and Budget",
+  "number": 7,
+  "kind": "translation",
+  "field": "question_vi",
+  "reason": "Minor omission: the clause 'and you're managing the new project' and 'on the inside' are missing from the Vietnamese. The rest is faithful."
+ },
+ {
+  "section": "Chapter 7 - Creating the Project Schedule and Budget",
+  "number": 4,
+  "kind": "translation",
+  "field": "question_vi",
+  "reason": "The sentence 'Grapevine wants you to design an Internet wine club for its customers' is omitted from the Vietnamese."
+ },
+ {
+  "section": "Chapter 7 - Creating the Project Schedule and Budget",
+  "number": 11,
+  "kind": "translation",
+  "field": "question_vi",
+  "reason": "The sentence 'Your company specializes in moving household goods across the city or across the country' is omitted."
+ },
+ {
+  "section": "Chapter 7 - Creating the Project Schedule and Budget",
+  "number": 12,
+  "kind": "translation",
+  "field": "question_vi",
+  "reason": "The sentence 'Your company specializes in moving household goods across the city or across the country' is omitted."
+ },
+ {
+  "section": "Chapter 7 - Creating the Project Schedule and Budget",
+  "number": 16,
+  "kind": "translation",
+  "field": "question_vi",
+  "reason": "The sentence 'Rivera combines the wonderful tastes of great gourmet food with outdoor adventure activities' is omitted from the Vietnamese."
+ },
+ {
+  "section": "Chapter 8 - Developing the Project Team",
+  "number": 3,
+  "kind": "translation",
+  "field": "question_vi",
+  "reason": "The current translation condenses the stem. It drops the sentence about selling organic dairy products regionally, merges the leasing sentence and leaves out 'other' in 'some other problems'. It is not a full rendering of the English."
+ },
+ {
+  "section": "Chapter 8 - Developing the Project Team",
+  "number": 8,
+  "kind": "explanation",
+  "field": "explanation_vi",
+  "reason": "The current text says communication skills is a wrong term. In PMBOK 3 it is a real tool and technique of Information Distribution. It also says B ties a concept to the wrong process, but resource availability is an input of Develop Project Team."
+ },
+ {
+  "section": "Chapter 8 - Developing the Project Team",
+  "number": 17,
+  "kind": "explanation",
+  "field": "explanation_vi",
+  "reason": "The current text says C describes the need for achievement/competency, which ties it to Achievement Theory. In Heldman, the 'achieve a high level of competency' wording is the definition of Contingency Theory."
+ },
+ {
+  "section": "Chapter 8 - Developing the Project Team",
+  "number": 13,
+  "kind": "explanation",
+  "field": "explanation_vi",
+  "reason": "The current text calls Contingency Theory 'leadership style depends on the situation' (Fiedler). Heldman, the book students study, defines it as motivation to reach competency, as in Q17 option C. As written, it contradicts the book."
+ },
+ {
+  "section": "Chapter 8 - Developing the Project Team",
+  "number": 14,
+  "kind": "explanation",
+  "field": "explanation_vi",
+  "reason": "The current text says co-location is 'also called war room'. In PMBOK 3, a war room is a shared team meeting room, one possible part of a co-location strategy, not another name for co-location."
+ },
+ {
+  "section": "Chapter 9 - Measuring and Controlling Project Performance",
+  "number": 9,
+  "kind": "translation",
+  "field": "question_vi",
+  "reason": "The current Vietnamese condenses the setup. It leaves out \"a portion of the project\", \"several on-ramps\" and \"at the south end of the city\", while Q8 translates the same scenario in full. The answer logic is not affected, but the translation is incomplete."
+ },
+ {
+  "section": "Chapter 10 - Monitoring and Controlling Change",
+  "number": 19,
+  "kind": "explanation",
+  "field": "explanation_vi",
+  "reason": "Math error: 250 × 0,91 = 227,5, not 227,3. 227,3 comes from 250 × 0,909 (unrounded CPI 250/275)."
+ },
+ {
+  "section": "Chapter 10 - Monitoring and Controlling Change",
+  "number": 2,
+  "kind": "translation",
+  "field": "question_vi",
+  "reason": "Omission: the sentence about Bluebird writing custom billing applications for several industries is left out (Q1 keeps it). Context only, does not affect the answer."
+ },
+ {
+  "section": "Chapter 10 - Monitoring and Controlling Change",
+  "number": 4,
+  "kind": "translation",
+  "field": "question_vi",
+  "reason": "Omission: the two sentences describing Star Light's products are dropped (Q3 translates them). Context only, does not affect the answer."
+ },
+ {
+  "section": "Chapter 10 - Monitoring and Controlling Change",
+  "number": 14,
+  "kind": "translation",
+  "field": "question_vi",
+  "reason": "Omission: the scenario is cut down to a short parenthetical, dropping the separate link for retail purchases and the coordination of parent company, growers and distributors. Context only, numbers are intact."
+ },
+ {
+  "section": "Chapter 11 - Controlling Work Results and Closing Out the Project",
+  "number": 6,
+  "kind": "translation",
+  "field": "question_vi",
+  "reason": "Current Vietnamese drops the whole sentence about why internal resources are used (contractor clearances take time and would jeopardize the implementation date) and drops 'programming and testing'."
+ },
+ {
+  "section": "Chapter 11 - Controlling Work Results and Closing Out the Project",
+  "number": 6,
+  "kind": "translation",
+  "field": "options_vi.A",
+  "reason": "'completion of all the work' means the work is all finished. Rendering it as 'mức độ hoàn thành' makes A sound like option B (level and degree of completion), which blurs the key distinction."
+ },
+ {
+  "section": "Chapter 11 - Controlling Work Results and Closing Out the Project",
+  "number": 8,
+  "kind": "translation",
+  "field": "question_vi",
+  "reason": "The sentence 'Your company specializes in producing comedy films for the big screen' from the English is missing in the Vietnamese."
+ },
+ {
+  "section": "Chapter 11 - Controlling Work Results and Closing Out the Project",
+  "number": 2,
+  "kind": "translation",
+  "field": "question_vi",
+  "reason": "The translation is condensed. It drops 'to the product' and 'about its potential' ('rất thích' loses the point that marketing likes the enhancement's potential). Small omission; this aligns it with the full translation in Q1."
+ },
+ {
+  "section": "Chapter 11 - Controlling Work Results and Closing Out the Project",
+  "number": 2,
+  "kind": "translation",
+  "field": "options_vi.D",
+  "reason": "The phrase 'with scope change' at the end of the English option is missing from the Vietnamese."
+ },
+ {
+  "section": "Chapter 11 - Controlling Work Results and Closing Out the Project",
+  "number": 12,
+  "kind": "explanation",
+  "field": "explanation_vi",
+  "reason": "In PMBOK 3rd, Schedule Control's tools do not include performance reviews (they are progress reporting, performance measurement, variance analysis and so on). Attributing performance reviews to 'Schedule/Cost Control' is factually inaccurate for the 3rd edition."
+ },
+ {
+  "section": "Chapter 12 - Applying Professional Responsibility",
+  "number": 4,
+  "kind": "translation",
+  "field": "question_vi",
+  "reason": "The English asks for the 'most likely response', but the Vietnamese says 'phù hợp nhất' (most appropriate), which comes from the wording of other questions. The meaning is close, but it does not match the source. The rest of the question is fine."
+ },
+ {
+  "section": "Chapter 7 - Creating the Project Schedule and Budget",
+  "number": 8,
+  "kind": "image_alt",
+  "field": "image_alt",
+  "reason": "Scan shows G -> E as well as G -> H"
+ },
+ {
+  "section": "Assessment Test",
+  "number": 56,
+  "kind": "explanation",
+  "field": "explanation_vi",
+  "reason": "Made consistent with Chapter 11 Q9 (Contract Closure usually precedes Close Project); A is the most complete statement"
+ },
+ {
+  "section": "Assessment Test",
+  "number": 34,
+  "kind": "consistency",
+  "field": "explanation_vi",
+  "reason": "Lý do loại C của #33 ('không cần Schedule Development để có cost baseline') sai với PMBOK 3rd, vì project schedule là đầu vào của Cost Budgeting, như #190 dạy. C sai vì đảo thứ tự. Đã viết lại #33."
+ },
+ {
+  "section": "Chapter 7 - Creating the Project Schedule and Budget",
+  "number": 1,
+  "kind": "consistency",
+  "field": "explanation_vi",
+  "reason": "Câu hỏi #185 nêu tên Activity Duration Estimating nhưng đáp án lại là bộ T&T của Activity Resource Estimating, trái với #32. Giải thích cũ chỉ ghi chú điều này ở cuối, dễ làm học viên hiểu sai. Đã viết lại để nói rõ đây là lỗi đề và nêu bộ T&T đúng. Giữ đáp án C theo sách."
+ },
+ {
+  "section": "Chapter 9 - Measuring and Controlling Project Performance",
+  "number": 11,
+  "kind": "consistency",
+  "field": "explanation_vi",
+  "reason": "#235 khẳng định chung rằng root cause identification không phải T&T nào trong PMBOK 3. Điều này sai: PMBOK 3rd 11.2.2.2 xếp nó vào nhóm information-gathering techniques của Risk Identification (như #149). Đã viết lại để nói nó không phải T&T của QA."
+ },
+ {
+  "section": "Chapter 5 - Risk Planning",
+  "number": 12,
+  "kind": "consistency",
+  "field": "explanation_vi",
+  "reason": "#156 nói tuyệt đối rằng Monte Carlo không phải kỹ thuật lập mô hình, mâu thuẫn với #26 và với PMBOK 3rd (mục modeling and simulation). Đã viết lại: B là cách phân biệt riêng của Heldman, đồng thời ghi rõ cách PMBOK phân nhóm. Giữ đáp án B."
+ },
+ {
+  "section": "Chapter 5 - Risk Planning",
+  "number": 6,
+  "kind": "consistency",
+  "field": "explanation_vi",
+  "reason": "#150 nói Qualitative chỉ đánh giá kiểu cao/trung bình/thấp, mâu thuẫn với #155 và #146 (điểm rủi ro = xác suất × tác động trên thang 0,0–1,0). Đã viết lại để phân biệt: Qualitative dùng thang điểm để ưu tiên hóa, còn Quantitative phân tích bằng số tác động tổng thể. Giữ đáp án C."
+ },
+ {
+  "section": "Chapter 2 - Creating the Project Charter and Preliminary Scope Statement",
+  "number": 8,
+  "kind": "consistency",
+  "field": "explanation_vi",
+  "reason": "Lý do 'A và B sai vì coi nó là đầu ra' trong #92 khái quát quá mức, mâu thuẫn với #112 (product scope description là thành phần của project scope statement, tức đầu ra của Scope Definition). Đã viết lại để lý do gắn với từng quy trình cụ thể. Giữ đáp án D."
+ },
+ {
+  "section": "Chapter 2 - Creating the Project Charter and Preliminary Scope Statement",
+  "number": 1,
+  "kind": "consistency",
+  "field": "explanation_vi",
+  "reason": "#85 khẳng định tuyệt đối rằng nhà thầu không cung cấp SOW, trong khi #167 dạy rằng contract SOW có thể do bên mua hoặc bên bán soạn. Đã viết lại #85 để phân biệt project SOW với contract SOW. Giữ đáp án A."
+ },
+ {
+  "section": "Chapter 5 - Risk Planning",
+  "number": 4,
+  "kind": "consistency",
+  "field": "explanation_vi",
+  "reason": "Giải thích cũ ngầm công nhận D đúng nhưng vẫn chọn D là phát biểu sai mà không nói rõ vì sao. Đã viết lại: nói rõ D đúng về kiến thức, chỉ là ngoại lệ theo cách đọc 'regarding this question' của Heldman."
+ },
+ {
+  "section": "Assessment Test",
+  "number": 7,
+  "kind": "consistency",
+  "field": "explanation_vi",
+  "reason": "Giải thích cũ trích PMBOK đúng như nội dung C nhưng không nói vì sao chọn B. Đã viết lại: B và C không mâu thuẫn, B cụ thể hơn và là đáp án của Heldman."
+ },
+ {
+  "section": "Assessment Test",
+  "number": 36,
+  "kind": "consistency",
+  "field": "explanation_vi",
+  "reason": "Hai câu tương thích nhưng dễ gây nhầm: #35 nói team building bắt đầu từ Planning, còn #211 nói Develop Project Team diễn ra sau khi đã có nhóm. Đã thêm vào #35 ghi chú phân biệt hoạt động xây dựng nhóm với quy trình Develop Project Team."
+ },
+ {
+  "section": "Chapter 11 - Controlling Work Results and Closing Out the Project",
+  "number": 3,
+  "kind": "consistency",
+  "field": "explanation_vi",
+  "reason": "#58 coi thay đổi WBS là nguồn gốc của thay đổi phạm vi, còn #267 nói nó bản thân là thay đổi phạm vi, nên quan hệ nhân quả được dạy ngược nhau. Đã viết lại #267 để thống nhất ('vừa là nguồn gốc vừa là một dạng'), vẫn giữ schedule revisions là hệ quả. Giữ đáp án C."
+ },
+ {
+  "section": "Assessment Test",
+  "number": 6,
+  "kind": "consistency",
+  "field": "explanation_vi",
+  "reason": "#5 dùng vai trò coordinator làm dấu hiệu của tổ chức chức năng, trong khi #79 (và PMBOK) gắn vai trò điều phối với ma trận yếu. Đã viết lại #5 để dựa vào dấu hiệu chính (báo cáo cho VP Nhân sự, làm việc phòng ban). Giữ đáp án A."
+ },
+ {
+  "section": "Assessment Test",
+  "number": 60,
+  "kind": "consistency",
+  "field": "explanation_vi",
+  "reason": "Cả hai đều đúng thuật ngữ, nhưng việc 'audits' là tên gọi khác của inspection (QC) dễ bị nhầm với quality audit (QA) ở #54. Đã thêm ghi chú phân biệt vào #59."
+ },
+ {
+  "section": "Chapter 2 - Creating the Project Charter and Preliminary Scope Statement",
+  "number": 12,
+  "kind": "consistency",
+  "field": "explanation_vi",
+  "reason": "#96 bác bỏ quy tắc chọn NPV cao nhất, mâu thuẫn với #95 (chọn IRR cao hơn) và #94 (NPV cao hơn là 'đúng sự thật'). Đã viết lại: công nhận NPV cao hơn thường được ưu tiên khi so sánh, B chỉ sai vì là quy tắc tuyệt đối và không phải giả định tái đầu tư. Giữ đáp án A."
+ },
+ {
+  "section": "Chapter 5 - Risk Planning",
+  "number": 13,
+  "kind": "consistency",
+  "field": "explanation_vi",
+  "reason": "#157 định nghĩa acceptance mà bỏ qua chấp nhận chủ động (kế hoạch dự phòng), mâu thuẫn với #163 và #154, trong khi việc thuê thiết bị giống một kế hoạch dự phòng. Đã viết lại để thừa nhận chỗ trùng lặp và giải thích vì sao mitigate tốt hơn. Giữ đáp án C."
+ },
+ {
+  "section": "Chapter 12 - Applying Professional Responsibility",
+  "number": 7,
+  "kind": "consistency",
+  "field": "explanation_vi",
+  "reason": "#291 dạy nhận quà và báo cáo, gọi việc từ chối là thiếu nhạy bén văn hóa, mâu thuẫn bề ngoài với #290 và #62 (phải từ chối; nhận rồi báo cáo vẫn vi phạm). Đã viết lại #291: nêu nguyên tắc chung trước, rồi giải thích ngoại lệ do phong tục nước ngoài, người tặng không phải nhà thầu đang được đánh giá, và có báo cáo ngay. Giữ đáp án D."
+ },
+ {
+  "section": "Chapter 10 - Monitoring and Controlling Change",
+  "number": 17,
+  "kind": "consistency",
+  "field": "explanation_vi",
+  "reason": "#261 gọi hai công thức EAC là 'tương đương' mà không nêu điều kiện. Ở #262, CPI = 0,9 đã làm tròn (250/275 ≈ 0,909), nên BAC/CPI = 555,6 khác với AC + (BAC–EV)/CPI = 552,8. Đã viết lại #261 để nói rõ hai công thức chỉ bằng nhau khi CPI = EV/AC. Giữ đáp án A."
+ }
+]

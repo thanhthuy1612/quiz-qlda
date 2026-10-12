@@ -1,0 +1,208 @@
+{
+ "Assessment Test#43": {
+  "answer": "A",
+  "explanation_vi": "Theo Heldman, người quản lý dự án có ảnh hưởng lớn nhất đến chất lượng trong quy trình Quality Planning, vì chất lượng được hoạch định từ đầu chứ không phải kiểm tra mới có (quality is planned in, not inspected in). Ở bước này PM xác định tiêu chuẩn chất lượng phù hợp, chỉ số chất lượng (quality metrics) và cách đáp ứng chúng, nên định hướng chất lượng cho toàn bộ dự án. Quality Assurance (B) chỉ kiểm tra rằng các tiêu chuẩn đã lập kế hoạch đang được áp dụng, còn Quality Control (C) đo lường kết quả sau khi công việc đã làm xong — lúc đó khả năng tác động đã giảm. Quality Change Control (D) không phải là quy trình trong PMBOK."
+ },
+ "Chapter 2 - Creating the Project Charter and Preliminary Scope Statement#6": {
+  "answer": "D",
+  "explanation_vi": "Theo PMBOK 3rd ed, project SOW gồm ba thành phần: business need, product scope description và strategic plan (phương án B đúng chính xác danh sách này). Phương án D chỉ có business need, còn requirements và stakeholder expectations là nội dung của preliminary scope statement chứ không phải của SOW, nên D là đáp án 'ngoại trừ' phù hợp nhất. Lưu ý: A và C cũng chứa yếu tố ngoài SOW (stakeholder influences), nên câu hỏi có phần mơ hồ; D là phương án lệch xa nhất.",
+  "note_vi": "Câu này có thể hiểu theo nhiều cách: phương án C cũng có lý. Đáp án D là đáp án được giữ sau khi đối chiếu."
+ },
+ "Chapter 2 - Creating the Project Charter and Preliminary Scope Statement#20": {
+  "answer": "B",
+  "explanation_vi": "Charter được ban hành bởi nhà tài trợ hoặc người khởi xướng bên ngoài dự án, ở cấp quản lý đủ thẩm quyền cấp vốn và nguồn lực, nên nó được công bố dưới tên project sponsor. QLDA không tự ủy quyền cho chính mình nên C sai. A quá chung chung và D không phải vai trò chính thức ban hành charter.",
+  "note_vi": "Câu này còn tranh cãi: phương án A cũng có lý. Theo PMBOK 3, điều lệ do nhà tài trợ hoặc người khởi xướng bên ngoài dự án ban hành nên giữ đáp án B."
+ },
+ "Chapter 5 - Risk Planning#4": {
+  "answer": "D",
+  "explanation_vi": "Cụm 'đối với tình huống này' là then chốt. Tình huống dùng phân phối chuẩn và log-chuẩn, là các phân phối dựa vào giá trị trung bình và độ lệch chuẩn (B đúng). Kỹ thuật phỏng vấn dùng để định lượng xác suất và tác động của rủi ro lên mục tiêu dự án (A đúng), và Heldman mô tả các phân phối xác suất là cách thể hiện bằng đồ thị tác động của rủi ro lên mục tiêu dự án (C đúng theo sách). Xét về kiến thức chung, nội dung phương án D là ĐÚNG: phân phối tam giác thật sự dựa vào ba ước tính lạc quan, bi quan và khả dĩ nhất. D được chọn làm đáp án 'ngoại trừ' chỉ vì nó không thuộc tình huống đang dùng phân phối chuẩn và log-chuẩn. Đây là cách đọc câu hỏi theo đáp án của Heldman, không có nghĩa phát biểu về phân phối tam giác là sai.",
+  "question_vi": "Bạn đang dùng kỹ thuật phỏng vấn của quy trình Phân tích rủi ro định lượng. Bạn dự định dùng phân phối chuẩn (normal) và phân phối log-chuẩn (lognormal). Tất cả các phát biểu sau đều đúng đối với tình huống này, ngoại trừ phát biểu nào?"
+ },
+ "Chapter 5 - Risk Planning#12": {
+  "answer": "B",
+  "explanation_vi": "Theo đáp án của Heldman, B là phát biểu 'sai' vì sách mô tả Monte Carlo là một kỹ thuật MÔ PHỎNG (simulation technique): mô hình dự án được chạy lặp lại nhiều lần với các giá trị đầu vào ngẫu nhiên để ra phân phối kết quả. Cần lưu ý rằng PMBOK 3rd đặt Monte Carlo trong mục 'mô hình hóa và mô phỏng' (modeling and simulation), thuộc nhóm T&T 'kỹ thuật phân tích định lượng rủi ro và mô hình hóa' của Quantitative Risk Analysis, cùng nhóm với phân tích độ nhạy, EMV và cây quyết định. Vì vậy B chỉ 'sai' theo cách phân biệt của sách (mô phỏng chứ không phải lập mô hình). Điều cần nhớ là Monte Carlo là kỹ thuật mô phỏng thuộc Quantitative Risk Analysis. A, C, D đúng: theo PMBOK 3rd, phân tích rủi ro chi phí thường dùng mô phỏng (Monte Carlo), và mô hình đầu vào có thể là WBS truyền thống hoặc cấu trúc phân chia chi phí (cost breakdown structure).",
+  "note_vi": "Câu này còn tranh cãi: PMBOK xếp Monte Carlo vào nhóm mô hình hoá & mô phỏng, nên phương án A cũng có thể được chấp nhận. Giữ đáp án B theo cách trình bày của sách."
+ },
+ "Chapter 7 - Creating the Project Schedule and Budget#8": {
+  "answer": "B",
+  "explanation_vi": "Tính tổng thời lượng từng đường trong hình: A-B-C-E-H = 10+7+5+2+8 = 32; A-D-E-H = 10+14+2+8 = 34; A-F-G-H = 10+7+6+8 = 31; A-F-G-E-H = 10+7+6+2+8 = 33 (G nối tới cả E và H). Đường găng là đường dài nhất, tức A-D-E-H với 34 ngày (phương án B).",
+  "image_alt": "Sơ đồ mạng: A (10 ngày) nối tới B (7), D (14) và F (7); B nối tới C (5); C nối tới E (2); D nối tới E; F nối tới G (6); E nối tới H (8); G nối tới cả E và H.",
+  "question_vi": "Bạn là quản lý dự án của Picture Shades, Inc. Công ty sản xuất rèm cửa sổ có in bản sao các bức tranh thời Phục hưng ở mặt trong, dành cho các chuỗi khách sạn. Picture Shades đang đưa sản phẩm của mình ra thị trường hộ gia đình, và bạn đang quản lý dự án mới này. Công ty sẽ bán sản phẩm tại các cửa hàng bán lẻ cũng như trên website của mình. Bạn đang xây dựng tiến độ dự án cho công việc này. Nhìn vào sơ đồ sau, đâu là đường găng (critical path)?"
+ },
+ "Chapter 9 - Measuring and Controlling Project Performance#3": {
+  "answer": "D",
+  "explanation_vi": "Theo PMBOK 3, danh sách nhà cung cấp đủ điều kiện (qualified sellers list) là một đầu ra (output) của quy trình Request Seller Responses, cùng với procurement document package và proposals. Danh sách này chứa thông tin về các nhà cung cấp (năng lực, kinh nghiệm, hồ sơ), không phải về dự án hay bên mua, nên loại B và C. Tool and technique tương ứng là hành động 'develop qualified sellers list' (xây dựng danh sách), còn bản thân danh sách là đầu ra, vì vậy A sai và D đúng."
+ },
+ "Chapter 9 - Measuring and Controlling Project Performance#8": {
+  "answer": "C",
+  "explanation_vi": "Hợp đồng đã là văn bản ràng buộc pháp lý, nên nhà cung cấp vốn có nghĩa vụ tuân thủ; change request dùng để thay đổi điều khoản hợp đồng chứ không dùng để 'yêu cầu tuân thủ' hợp đồng. Vì vậy C không phải là phương án hợp lệ. Các phương án còn lại đều hợp lệ: ghi nhận hiệu suất kém bằng văn bản và gửi cho nhà thầu phụ (A), gặp gỡ để tìm giải pháp (D), và chấm dứt hợp đồng vì hiệu suất kém thông qua change request trong Contract Administration (B) — việc chấm dứt hợp đồng là một thay đổi đối với hợp đồng nên được xử lý qua hệ thống kiểm soát thay đổi hợp đồng."
+ },
+ "Chapter 9 - Measuring and Controlling Project Performance#20": {
+  "answer": "B",
+  "explanation_vi": "Cuộc họp tình trạng (status meeting) với các bên liên quan là công cụ của Performance Reporting, dùng để trao đổi thông tin về tiến độ và các công việc đã hoàn thành. Vì dự án đang tiến triển đúng kế hoạch, bạn chỉ cần báo cáo tiến độ của bản demo và ghi nhận đây là công việc đã hoàn thành (B). Việc trình diễn sản phẩm để các bên liên quan chính thức chấp nhận và ký xác nhận (A) thuộc quy trình Scope Verification, không phải mục đích của cuộc họp báo cáo tình trạng. C và D cũng không đúng vì cuộc họp không dùng để duyệt tài liệu kỹ thuật hay chỉ báo cáo việc cập nhật hệ thống lưu trữ thông tin."
+ },
+ "Chapter 10 - Monitoring and Controlling Change#18": {
+  "answer": "D",
+  "explanation_vi": "Với sai lệch không điển hình (atypical): EAC = AC + (BAC – EV) = 275 + (500 – 250) = 525. Do đó VAC = BAC – EAC = 500 – 525 = –25, nghĩa là dự án dự kiến vượt ngân sách 25. Đáp án –52 (B) là kết quả khi áp dụng nhầm công thức cho sai lệch điển hình: EAC = AC + (BAC – EV)/CPI = 275 + 250/0,9 ≈ 552,8, suy ra VAC ≈ –52. Đáp án 25 (A) và 52 (C) sai dấu, vì VAC âm cho biết dự án vượt ngân sách."
+ },
+ "Chapter 11 - Controlling Work Results and Closing Out the Project#3": {
+  "answer": "C",
+  "explanation_vi": "Theo PMBOK 3rd, phạm vi dự án được xác định bởi WBS đã phê duyệt. Vì vậy thay đổi các thành phần WBS đã thống nhất vừa là một nguồn gốc, vừa đồng thời là một dạng của thay đổi phạm vi: khi WBS đã thống nhất thay đổi thì phạm vi đã thay đổi cùng lúc. Do đó A không phải là yêu cầu mới 'kéo theo'. Hệ quả kéo theo mà Heldman nêu là điều chỉnh lịch trình (schedule revisions), một loại cập nhật lịch trình đặc biệt làm thay đổi ngày bắt đầu và kết thúc trong lịch trình đã phê duyệt, thường phát sinh do thay đổi phạm vi/WBS. Chi phí hay biện pháp ứng phó rủi ro (B, D) cũng có thể bị ảnh hưởng, nhưng đáp án theo sách là C."
+ },
+ "Chapter 11 - Controlling Work Results and Closing Out the Project#9": {
+  "answer": "A",
+  "explanation_vi": "Nhóm quy trình Kết thúc trong PMBOK 3rd có hai quy trình là Contract Closure và Close Project. Theo Heldman, Contract Closure được thực hiện trước. Mọi hợp đồng phải được tất toán và đóng lại (xác minh sản phẩm, chấp nhận chính thức, cập nhật hồ sơ), sau đó mới đóng hành chính toàn bộ dự án bằng Close Project. Việc Close Project có đầu ra là thủ tục đóng hợp đồng không có nghĩa dự án được đóng trước khi đóng hợp đồng, nên D sai. Scope Verification thuộc nhóm Giám sát và Kiểm soát, nên B và C sai."
+ },
+ "Chapter 10 - Monitoring and Controlling Change#15": {
+  "answer": "B",
+  "explanation_vi": "Khi sai lệch được coi là không điển hình (không tiếp diễn), dùng công thức EAC = AC + (BAC – EV) = 200 + (800 – 250) = 200 + 550 = 750. Đáp án 640 là kết quả của công thức cho sai lệch điển hình (EAC = BAC/CPI = 800/1,25). Lưu ý: 550 chính là ETC trong trường hợp không điển hình (BAC – EV), không phải EAC. Giá trị ETC = 275 cho trong đề là dữ kiện gây nhiễu, không khớp với các số liệu còn lại; với sai lệch không điển hình phải tính lại ETC = BAC – EV = 550."
+ },
+ "Chapter 10 - Monitoring and Controlling Change#17": {
+  "answer": "A",
+  "explanation_vi": "Khi sai lệch là điển hình (sẽ tiếp diễn), EAC = BAC ÷ CPI = 800 ÷ 1,25 = 640. Công thức AC + (BAC – EV)/CPI = 200 + 550/1,25 = 200 + 440 = 640 cho cùng kết quả vì ở đây CPI = EV/AC = 250/200 = 1,25 chính xác. Hai công thức chỉ cho kết quả giống nhau khi CPI đúng bằng EV/AC; nếu CPI trong đề đã được làm tròn, kết quả có thể lệch đôi chút. 750 là kết quả của công thức cho sai lệch không điển hình (AC + BAC – EV). Giá trị ETC = 275 trong đề là dữ kiện gây nhiễu; với sai lệch điển hình, ETC = (BAC – EV)/CPI = 550/1,25 = 440."
+ },
+ "Chapter 7 - Creating the Project Schedule and Budget#9": {
+  "image_alt": "Sơ đồ mạng: A (10 ngày) nối tới B (7), D (14) và F (7); B nối tới C (5); C nối tới E (2); D nối tới E; F nối tới G (6); E nối tới H (8); G nối tới cả E và H."
+ },
+ "Assessment Test#44": {
+  "explanation_vi": "Công cụ và kỹ thuật của Manage Project Team (PMBOK 3rd) gồm quan sát và trao đổi, đánh giá hiệu suất dự án, quản lý xung đột và nhật ký vấn đề (issue log). Phương pháp truyền thông (communications methods) không phải là công cụ của Manage Project Team mà là công cụ và kỹ thuật của quy trình Manage Stakeholders (Quản lý các bên liên quan), nên A là phát biểu sai. B, C, D đều đúng theo PMBOK: trong môi trường ma trận, thành viên nhóm báo cáo cho cả trưởng bộ phận chức năng và người quản lý dự án; quản lý hiệu quả quan hệ báo cáo kép này thường là yếu tố thành công then chốt của dự án và thường là trách nhiệm của PM."
+ },
+ "Assessment Test#56": {
+  "explanation_vi": "Close Project (Kết thúc dự án) được thực hiện để chính thức đóng lại cả từng giai đoạn lẫn toàn bộ dự án, nên nó diễn ra ở cuối mỗi giai đoạn và ở cuối dự án — A là phát biểu đúng và đầy đủ nhất. B và C chỉ nêu một nửa nên sai. Về D: theo Heldman, khi dự án có hợp đồng thì Contract Closure thường được làm trước rồi mới đến Close Project (xem câu 9 Chương 11), nhưng Close Project còn diễn ra ở cuối mỗi giai đoạn và ở cả những dự án không có hợp đồng, nên D không phải là đặc điểm luôn đúng của Close Project. Vì vậy đáp án đúng nhất là A."
+ },
+ "Chapter 1 - What Is a Project?#13": {
+  "question_vi": "Mức độ quyền hạn mà một quản lý dự án nắm giữ có thể liên quan đến"
+ },
+ "Chapter 2 - Creating the Project Charter and Preliminary Scope Statement#7": {
+  "explanation_vi": "Thông tin lịch sử và bài học kinh nghiệm (lessons learned) từ các dự án trước là một thành phần của organizational process assets (OPA), và dự án giải chạy 10K tương tự sẽ rất hữu ích cho dự án mới. Strategic plan (kế hoạch chiến lược) là một thành phần của project SOW, còn bản thân project SOW là một đầu vào riêng của quy trình Develop Project Charter; cả hai đều không phải OPA, nên A và C sai. PMIS là một công cụ & kỹ thuật (hoặc thuộc yếu tố môi trường doanh nghiệp - EEF), không phải OPA, nên D sai."
+ },
+ "Chapter 3 - Developing the Project Scope Statement#14": {
+  "explanation_vi": "Trong PMBOK 3rd, stakeholder analysis (phân tích các bên liên quan) là công cụ và kỹ thuật của quy trình Scope Definition (nên A đúng). Nó xác định ảnh hưởng và lợi ích của các bên liên quan, ghi nhận nhu cầu, mong muốn và kỳ vọng của họ (nên C đúng), rồi chọn lọc, ưu tiên hóa và định lượng các nhu cầu đó để tạo thành yêu cầu dự án (requirements) (nên D đúng). Việc xác định nhu cầu thông tin, truyền thông và phương pháp cập nhật cho các bên liên quan thuộc quy trình Communications Planning, không phải stakeholder analysis của Scope Definition. Vì vậy B là phát biểu KHÔNG đúng, và đó chính là đáp án cần chọn."
+ },
+ "Chapter 4 - Creating the WBS and Communicating the Plan#12": {
+  "explanation_vi": "Theo PMBOK 3rd, quy trình Communications Planning chỉ có hai công cụ và kỹ thuật: phân tích yêu cầu truyền thông (communications requirements analysis) và công nghệ truyền thông (communications technology). PMIS (hệ thống thông tin quản lý dự án) là công cụ của các quy trình thuộc lĩnh vực kiến thức Quản lý tích hợp dự án (Project Integration Management), như Develop Project Charter, Develop Project Management Plan, Direct and Manage Project Execution..., không phải của Communications Planning, nên D là phát biểu sai. A đúng: kế hoạch quản lý truyền thông là đầu ra duy nhất của quy trình này. B đúng: nên lập kế hoạch truyền thông càng sớm càng tốt trong các giai đoạn dự án. C đúng: quy trình gắn chặt với các yếu tố môi trường doanh nghiệp (EEF) và tài sản quy trình tổ chức, trong đó bài học kinh nghiệm và thông tin lịch sử là hai đầu vào cần được chú ý nhiều."
+ },
+ "Chapter 4 - Creating the WBS and Communicating the Plan#4": {
+  "question_vi": "Công ty của bạn, Kick That Ball Sports, bổ nhiệm bạn làm quản lý dự án cho việc ra mắt dòng sản phẩm Cricket mới. Đây là chương trình toàn quốc, mọi cửa hàng bán lẻ trên cả nước phải có sản phẩm mới trên kệ trước khi chiến dịch quảng cáo truyền thông rầm rộ bắt đầu. Dòng sản phẩm gồm ba sản phẩm mới, hai sản phẩm sẽ ra mắt cùng lúc và sản phẩm thứ ba sẽ ra mắt trong vòng hai năm. Sản phẩm thứ ba sẽ được chi tiết hóa kỹ hơn khi gần đến ngày ra mắt, còn hai sản phẩm đầu được chi tiết hóa rất kỹ ngay bây giờ. Kế hoạch quản lý phạm vi vừa được hoàn thành. Phát biểu nào sau đây là đúng? (Chọn câu trả lời tốt nhất.)"
+ },
+ "Chapter 4 - Creating the WBS and Communicating the Plan#7": {
+  "question_vi": "Bạn là quản lý dự án cho chuỗi hộp đêm Lucky Stars, chuyên biểu diễn nhạc đồng quê và miền Tây trực tiếp. Dự án mới nhất của bạn đang ở nhóm quy trình Lập kế hoạch. Bạn đang xây dựng WBS. Trưởng phòng tài chính đưa cho bạn một hệ thống đánh số để gán cho WBS. Phát biểu nào sau đây là đúng?"
+ },
+ "Chapter 6 - Resource Planning#16": {
+  "question_vi": "Bạn được thuê làm quản lý dự án hợp đồng cho Grapevine Vineyards. Grapevine muốn bạn thiết kế một câu lạc bộ rượu vang trực tuyến cho khách hàng của mình. Khách hàng phải đăng ký trước khi được phép đặt mua rượu qua Internet để có thể xác minh tuổi hợp pháp. Bạn biết rằng mô-đun xác minh đăng ký phải được viết và kiểm thử bằng dữ liệu từ cơ sở dữ liệu hiện có của Grapevine. Mô-đun mới này không thể kiểm thử cho đến khi dữ liệu từ hệ thống hiện có được nạp vào. Bạn sẽ thuê một nhà cung cấp thực hiện các công việc lập trình và kiểm thử cho mô-đun này để giúp đẩy nhanh tiến độ dự án. Vì họ sẽ được truy cập danh sách khách hàng của bạn và có thể cả các bí mật kinh doanh khác, bạn yêu cầu họ ký thỏa thuận bảo mật (nondisclosure agreement – NDA). Đây là ví dụ của điều nào sau đây?"
+ },
+ "Chapter 6 - Resource Planning#19": {
+  "question_vi": "Bạn là quản lý dự án của BB Tops, một chuỗi cửa hàng đồ chơi toàn quốc. Dự án mới của bạn là tạo mẫu trưng bày thử (prototype display) tại một số cửa hàng trên cả nước. Bạn đang thuê một nhà thầu thực hiện một phần dự án. Hợp đồng quy định bạn sẽ trả toàn bộ chi phí hợp lệ (allowable costs) cộng thêm khoản phí 8% tính trên chi phí hợp lệ vào cuối hợp đồng. Tất cả các phương án sau đều mô tả loại hợp đồng này, ngoại trừ phương án nào?"
+ },
+ "Chapter 7 - Creating the Project Schedule and Budget#7": {
+  "question_vi": "Bạn là quản lý dự án của Picture Shades, Inc. Công ty sản xuất rèm cửa sổ có in bản sao các bức tranh thời Phục hưng ở mặt trong, dành cho các chuỗi khách sạn. Picture Shades đang đưa sản phẩm của mình ra thị trường hộ gia đình, và bạn đang quản lý dự án mới này. Công ty sẽ bán sản phẩm tại các cửa hàng bán lẻ cũng như trên website của mình. Bạn đang xây dựng tiến độ dự án cho công việc này và đã xác định được đường găng (critical path). Phát biểu nào sau đây là đúng?"
+ },
+ "Chapter 7 - Creating the Project Schedule and Budget#4": {
+  "question_vi": "Bạn được thuê làm quản lý dự án theo hợp đồng cho Grapevine Vineyards. Grapevine muốn bạn thiết kế một câu lạc bộ rượu vang trên Internet cho khách hàng của họ. Một trong các hoạt động của dự án này là lắp đặt và kiểm thử một số máy chủ mới. Từ kinh nghiệm trước đây, bạn biết mỗi máy chủ mất khoảng 16 giờ để hoàn thành công việc này. Vì bạn lắp đặt 10 máy chủ mới, bạn ước tính hoạt động này mất 160 giờ. Bạn đã dùng kỹ thuật ước tính nào?"
+ },
+ "Chapter 7 - Creating the Project Schedule and Budget#11": {
+  "question_vi": "Bạn là quản lý dự án của công ty vận tải Move It Now. Công ty bạn chuyên vận chuyển đồ đạc gia đình trong phạm vi thành phố hoặc xuyên quốc gia. Dự án của bạn là nâng cấp mạng máy tính toàn quốc của công ty. Kỹ sư trưởng đưa ra các ước tính sau cho một hoạt động trên đường găng: khả dĩ nhất 60 ngày, bi quan 72 ngày, lạc quan 48 ngày. Giá trị bình quân gia quyền (giá trị kỳ vọng) là bao nhiêu?"
+ },
+ "Chapter 7 - Creating the Project Schedule and Budget#12": {
+  "question_vi": "Bạn là quản lý dự án của công ty vận tải Move It Now. Công ty bạn chuyên vận chuyển đồ đạc gia đình trong phạm vi thành phố hoặc xuyên quốc gia. Dự án của bạn là nâng cấp mạng máy tính toàn quốc của công ty. Kỹ sư trưởng đưa ra các ước tính sau cho một hoạt động trên đường găng: khả dĩ nhất 60 ngày, bi quan 72 ngày, lạc quan 48 ngày. Độ lệch chuẩn là bao nhiêu?"
+ },
+ "Chapter 7 - Creating the Project Schedule and Budget#16": {
+  "question_vi": "Bạn là quản lý dự án của Rivera Gourmet Adventure Vacations. Rivera kết hợp hương vị tuyệt vời của các món ăn cao cấp (gourmet) với các hoạt động phiêu lưu ngoài trời. Dự án của bạn là lắp đặt một hệ thống phần mềm nhân sự mới. Jason, chuyên viên phân tích cơ sở dữ liệu làm việc trong dự án này, đang bị phân bổ quá tải (overallocated). Phát biểu nào sau đây là đúng?"
+ },
+ "Chapter 8 - Developing the Project Team#3": {
+  "question_vi": "Bạn là quản lý dự án của một trang trại sữa đang phát triển. Trang trại cung cấp sản phẩm sữa hữu cơ trong khu vực và đang mở rộng hoạt động sang Bờ Tây. Công ty đang mua và thuê các trang trại sữa để bắt đầu hoạt động. Quản lý dự án con (subproject manager) phụ trách vận hành mạng đã báo cáo với bạn một số vấn đề về phần cứng. Bạn cũng đang gặp một số khó khăn khác trong việc phối hợp và tích hợp các thành phần khác của dự án. Phát biểu nào sau đây là đúng?"
+ },
+ "Chapter 8 - Developing the Project Team#8": {
+  "explanation_vi": "Nhóm ảo (virtual team) là nhóm có chung mục tiêu nhưng ít hoặc không gặp mặt trực tiếp: thành viên làm việc ở nhiều địa điểm, khác giờ làm, khác ca. Đây là một công cụ và kỹ thuật (tool and technique) của quy trình Acquire Project Team. Việc dùng web conferencing và email để gửi thông tin cho nhóm là phương pháp phân phối thông tin (information distribution methods), một tool and technique của quy trình Information Distribution. Vì vậy C đúng. A sai vì tình huống không mô tả kế hoạch quản lý nhân sự (staffing management plan); ngoài ra việc dùng công cụ để gửi thông tin là phương pháp phân phối thông tin chứ không phải kỹ năng giao tiếp (communication skills), dù communication skills cũng là một tool and technique của Information Distribution. B sai vì tuy resource availability đúng là một đầu vào của Develop Project Team và tình huống có nhắc việc nhân sự không có mặt cùng lúc, điểm cốt lõi của tình huống là thành viên phân tán ở nhiều địa điểm, khác giờ làm và khác ca, tức là nhóm ảo. D sai vì tình huống không mô tả việc phân công nhân sự (project staff assignments là đầu ra của Acquire Project Team và là đầu vào của Develop Project Team), và việc dùng email, web conferencing để gửi thông tin cũng không phải là kỹ năng giao tiếp."
+ },
+ "Chapter 8 - Developing the Project Team#17": {
+  "explanation_vi": "Theo McGregor, nhà quản lý Theory Y tin rằng con người vốn muốn làm việc tốt, có tinh thần tự giác và sẽ đạt hiệu suất tốt nhất khi được động viên đúng cách và được giao kỳ vọng phù hợp. Vì vậy B đúng. A gần với quan điểm Theory X: con người không thích làm việc, cần bị giám sát và chỉ bị thúc đẩy bởi lợi ích bên ngoài như tiền bạc, quyền lực, địa vị. C mô tả Thuyết Ngẫu nhiên (Contingency Theory) theo Heldman: con người được thúc đẩy để đạt tới mức năng lực (competency) cao và vẫn tiếp tục được thúc đẩy bởi nhu cầu này ngay cả khi đã đạt được. D mô tả Thuyết Kỳ vọng (Expectancy Theory)."
+ },
+ "Chapter 8 - Developing the Project Team#13": {
+  "explanation_vi": "Thuyết Kỳ vọng (Expectancy Theory, Vroom) cho rằng con người được thúc đẩy khi họ tin rằng nỗ lực sẽ dẫn đến kết quả tốt và kết quả đó mang lại phần thưởng có giá trị. Hứa hẹn phần thưởng (hai ngày nghỉ có lương, một tuần đào tạo) nếu hoàn thành dự án trước thời hạn chính là tạo kỳ vọng về kết quả tốt, nên B đúng. Achievement Theory (McClelland) nói về nhu cầu thành tựu, quyền lực và liên kết. Thuyết của Maslow là tháp nhu cầu. Contingency Theory (theo Heldman) cho rằng con người được thúc đẩy để đạt tới mức năng lực (competency) và tiếp tục được thúc đẩy bởi nhu cầu này ngay cả khi đã đạt được. Không thuyết nào trong ba thuyết này dựa trên việc hứa phần thưởng cho một kết quả cụ thể."
+ },
+ "Chapter 8 - Developing the Project Team#14": {
+  "explanation_vi": "Co-location là bố trí các thành viên nhóm làm việc chung tại một địa điểm, đôi khi kèm một phòng họp chung gọi là war room. Đây là một tool and technique của Develop Project Team, giúp tăng giao tiếp, sự gắn kết và năng lực làm việc nhóm. Nguyên nhân gốc của vấn đề ở đây là sự cách biệt địa lý, nên co-location (B) là giải pháp phù hợp nhất. Training và conflict resolution không giải quyết tận gốc vấn đề tách biệt; corrective action là thuật ngữ chung, không cụ thể."
+ },
+ "Chapter 9 - Measuring and Controlling Project Performance#9": {
+  "question_vi": "Bạn là quản lý dự án của một công ty kỹ thuật. Công ty bạn đã thắng thầu lắp đèn điều tiết giao thông (ramp-metering lights) tại một số lối lên dọc theo một đoạn đường cao tốc ở phía nam thành phố. Bạn đã giao thầu phụ một phần dự án cho một công ty khác. Công việc của thầu phụ gồm đào hố và chôn cột đèn vào bê tông. Thông qua một cuộc đánh giá độc lập, bạn phát hiện quy trình mà thầu phụ dùng để báo cáo tiến độ là kém hiệu quả. Phát biểu nào sau đây là đúng?"
+ },
+ "Chapter 10 - Monitoring and Controlling Change#19": {
+  "explanation_vi": "Với sai lệch điển hình: CPI = EV ÷ AC = 250 ÷ 275 ≈ 0,91. ETC = (BAC – EV) ÷ CPI = (500 – 250) ÷ 0,91 ≈ 274,7 (nếu không làm tròn CPI thì ra đúng 275). 250 (B) là ETC cho sai lệch không điển hình (BAC – EV); 525 (D) là EAC không điển hình (AC + BAC – EV = 275 + 250); 227,3 (A) là kết quả nhân thay vì chia (250 × 0,909 ≈ 227,3)."
+ },
+ "Chapter 10 - Monitoring and Controlling Change#2": {
+  "question_vi": "Bạn là quản lý dự án của Bluebird Technologies. Bluebird viết các ứng dụng tính cước tùy chỉnh cho nhiều ngành. Một trong những người dùng của bạn yêu cầu bằng lời nói thay đổi một trong các màn hình hiển thị. Bạn giải thích với cô ấy rằng thay đổi cần đi qua hệ thống kiểm soát thay đổi (change control system), vốn là một tập con của hệ thống quản lý cấu hình (configuration management system). Bạn giải thích rằng hệ thống kiểm soát thay đổi làm tất cả các việc sau, NGOẠI TRỪ việc nào?"
+ },
+ "Chapter 10 - Monitoring and Controlling Change#4": {
+  "question_vi": "Bạn là quản lý dự án của Star Light Strings. Star Light sản xuất dây đèn trang trí ngoài trời, với các sản phẩm từ dây đèn đơn giản đến đèn công phu hình thú, hình côn trùng, đồ lưu niệm, v.v. Dự án mới nhất của bạn cần một thay đổi. Một quản lý đơn vị kinh doanh đã gửi yêu cầu thay đổi qua hệ thống kiểm soát thay đổi, hệ thống này sử dụng một CCB (Ban kiểm soát thay đổi). Phát biểu nào sau đây đúng về CCB?"
+ },
+ "Chapter 10 - Monitoring and Controlling Change#14": {
+  "question_vi": "Bạn là quản lý dự án theo hợp đồng cho một công ty phân phối hoa bán buôn. Dự án của bạn là xây dựng một website cho công ty, cho phép các nhà bán lẻ đặt hoa trực tuyến. Bạn cũng sẽ cung cấp một liên kết riêng cho các giao dịch mua lẻ, được đặt hàng, đóng gói và gửi trực tiếp đến người tiêu dùng từ cơ sở của nhà vườn. Dự án này liên quan đến việc phối hợp giữa công ty mẹ, các nhà vườn và các nhà phân phối. Bạn đang chuẩn bị đánh giá hiệu suất với các số liệu: PV = 300, AC = 200, EV = 250. CPI của dự án là bao nhiêu?"
+ },
+ "Chapter 11 - Controlling Work Results and Closing Out the Project#6": {
+  "question_vi": "Bạn là quản lý dự án phần mềm tối mật cho một cơ quan chính phủ Hoa Kỳ. Nhiệm vụ của bạn (nếu bạn chấp nhận) là hoàn thành dự án bằng nguồn lực nội bộ. Lý do là việc xin giấy phép an ninh tối mật cho nhà thầu mất khá nhiều thời gian, và chờ đợi giấy phép sẽ đe dọa ngày triển khai. Các lập trình viên của bạn đã hoàn thành 80% công việc lập trình và kiểm thử thì cơ quan bổ nhiệm một giám đốc điều hành mới. Các lập trình viên bị rút khỏi dự án này để làm dự án mới 'nóng' của giám đốc điều hành. Phát biểu nào sau đây nêu đúng mục đích của Xác minh phạm vi (Scope Verification) trong trường hợp này?",
+  "options_vi": {
+   "A": "Scope Verification xác định tính đúng đắn và sự hoàn tất của toàn bộ công việc.",
+   "B": "Scope Verification lập tài liệu về mức độ và phạm vi hoàn thành công việc.",
+   "C": "Scope Verification xác định kết quả dự án có tuân thủ tiêu chuẩn chất lượng hay không.",
+   "D": "Scope Verification ghi nhận tính đúng đắn của công việc theo kỳ vọng của các bên liên quan."
+  }
+ },
+ "Chapter 11 - Controlling Work Results and Closing Out the Project#8": {
+  "question_vi": "Bạn là quản lý dự án của Cinema Snicker Productions. Công ty bạn chuyên sản xuất phim hài chiếu rạp. Dự án mới nhất của bạn vừa hoàn thành và được chấp nhận. Bạn đã được giao dự án tiếp theo, bắt đầu ngay lập tức. Phát biểu nào sau đây đúng?"
+ },
+ "Chapter 11 - Controlling Work Results and Closing Out the Project#2": {
+  "question_vi": "Bạn đang làm một dự án tiến triển tốt cho đến khi xảy ra một lỗi sản xuất cần hành động khắc phục. Hóa ra lỗi đó lại là một cải tiến ngoài ý muốn cho sản phẩm, và bộ phận marketing cực kỳ thích tiềm năng của nó. Hành động khắc phục bị hủy và bạn tiếp tục sản xuất sản phẩm với cải tiến mới phát hiện. Là quản lý dự án, bạn biết phạm vi dự án (project scope) đã thay đổi. Phát biểu nào sau đây đúng?",
+  "options_vi": {
+   "A": "Thay đổi phạm vi dự án không cần CCB phê duyệt.",
+   "B": "Các đường cơ sở đo lường hiệu suất (performance measurement baselines) có thể bị ảnh hưởng bởi thay đổi phạm vi.",
+   "C": "Thay đổi phạm vi dự án dùng kỹ thuật kiểm tra (inspection) để xác định thay đổi đã xảy ra hay chưa.",
+   "D": "Thay đổi phạm vi dự án dùng giải pháp tình thế (workarounds) để khắc phục các vấn đề bất ngờ liên quan đến thay đổi phạm vi."
+  }
+ },
+ "Chapter 11 - Controlling Work Results and Closing Out the Project#12": {
+  "explanation_vi": "Kiểm toán mua sắm (procurement audits) là công cụ và kỹ thuật của Contract Closure, dùng để xem xét có cấu trúc toàn bộ quá trình mua sắm từ Plan Purchases and Acquisitions đến Contract Administration nhằm xác định thành công, thất bại và bài học kinh nghiệm. Performance reviews (B) gần với các kỹ thuật đánh giá hiệu suất trong lúc thực hiện, như buyer-conducted performance review của Contract Administration và project performance reviews của Cost Control, không phải kỹ thuật rút bài học khi đóng hợp đồng. C và D không phải tên công cụ/kỹ thuật trong PMBOK 3rd. Vì vậy đáp án là A."
+ },
+ "Chapter 12 - Applying Professional Responsibility#4": {
+  "question_vi": "Bạn là quản lý dự án cho một công ty sản xuất đồ phục chế và vật kỷ niệm thời Nội chiến Mỹ. Bạn phát hiện một lỗi thiết kế trong lần chạy sản xuất thử của dự án mới nhất. Phản ứng nào sau đây có nhiều khả năng xảy ra nhất (most likely) đối với vấn đề này?"
+ },
+ "Assessment Test#34": {
+  "explanation_vi": "Đường cơ sở chi phí (cost baseline) là đầu ra của quy trình Cost Budgeting. Quy trình này tổng hợp chi phí ước tính của các hoạt động/gói công việc rồi phân bổ theo thời gian thành ngân sách theo thời gian (đường cong S). Vì đã xác định được cost baseline nên bạn đã hoàn thành Cost Budgeting, và baseline này sẽ được dùng để đo lường, giám sát hiệu suất chi phí (D). A và B sai vì Cost Estimating chỉ tạo ra ước tính chi phí của hoạt động, không tạo ra baseline. C sai vì đảo ngược thứ tự: theo PMBOK 3rd, tiến độ dự án (project schedule, đầu ra của Schedule Development) là một đầu vào của Cost Budgeting, nên Schedule Development diễn ra TRƯỚC Cost Budgeting chứ không phải sau. Ngoài ra, cost baseline bản thân nó đã là đường cơ sở để đo lường hiệu suất, không cần chờ thêm quy trình nào khác."
+ },
+ "Chapter 7 - Creating the Project Schedule and Budget#1": {
+  "explanation_vi": "Lưu ý: đề này có lỗi. Bộ công cụ và kỹ thuật ở phương án C (expert judgment, alternatives analysis, published estimating data, project management software, bottom-up estimating) là T&T của quy trình Ước tính nguồn lực hoạt động (Activity Resource Estimating) theo PMBOK 3rd, KHÔNG phải của Activity Duration Estimating. T&T đúng của Activity Duration Estimating là expert judgment, analogous estimating, parametric estimating, three-point estimates và reserve analysis, và không phương án nào liệt kê bộ này. Nhiều khả năng đề gốc định hỏi Activity Resource Estimating. Đọc theo cách đó thì C là phương án duy nhất liệt kê đủ cả năm T&T. A và B sai vì danh sách hoạt động (activity list) là đầu vào, không phải công cụ; D thiếu phần mềm quản lý dự án. Đáp án theo sách là C, nhưng khi ôn thi hãy nhớ đúng bộ T&T của từng quy trình như trên."
+ },
+ "Chapter 9 - Measuring and Controlling Project Performance#11": {
+  "explanation_vi": "Process analysis (một T&T của Perform Quality Assurance) làm theo kế hoạch cải tiến quy trình để xác định những cải tiến cần thiết. Nó bao gồm phân tích nguyên nhân gốc (root cause analysis) để tìm nguyên nhân của một vấn đề hay khiếm khuyết và đề xuất hành động phòng ngừa, đúng như tình huống trong đề (A). B sai vì quality audit là đánh giá độc lập, có cấu trúc, xem các hoạt động dự án có tuân thủ chính sách, quy trình và thủ tục của tổ chức hay không, chứ không phải phân tích nguyên nhân của một vấn đề kỹ thuật. C sai vì root cause identification là một kỹ thuật thu thập thông tin (information-gathering technique) của quy trình Risk Identification, dùng để nhận diện rủi ro, không phải T&T của quản lý chất lượng; trong Perform QA, việc tìm nguyên nhân gốc là một phần của process analysis. D sai vì process analysis thuộc Perform QA, không phải Perform Quality Control."
+ },
+ "Chapter 5 - Risk Planning#6": {
+  "explanation_vi": "Theo Heldman, Quantitative Risk Analysis phân tích bằng số (numerically) xác suất của từng rủi ro và hậu quả của chúng lên mục tiêu dự án. Quy trình này dùng các kỹ thuật như phỏng vấn, phân phối xác suất, phân tích độ nhạy, EMV, cây quyết định và mô phỏng Monte Carlo, nên C đúng. Cần phân biệt với Qualitative Risk Analysis (A). Quy trình định tính cũng dùng thang điểm (thứ bậc, hoặc số từ 0,0 đến 1,0) cho xác suất và tác động, rồi nhân lại để ra điểm rủi ro (risk score) trong ma trận xác suất và tác động. Tuy nhiên mục đích của nó là ưu tiên hóa rủi ro nhanh, chi phí thấp, dựa trên đánh giá mang tính chủ quan. Quantitative đi xa hơn: lượng hóa bằng số tác động tổng thể của rủi ro lên mục tiêu dự án, ví dụ xác suất đạt mục tiêu chi phí/tiến độ hoặc giá trị tiền tệ kỳ vọng. Risk Identification và Risk Response Planning không đánh giá rủi ro bằng số."
+ },
+ "Chapter 2 - Creating the Project Charter and Preliminary Scope Statement#8": {
+  "explanation_vi": "Product scope description mô tả đặc điểm của sản phẩm, dịch vụ hoặc kết quả mà dự án tạo ra. Theo PMBOK 3rd, nó là một thành phần của project SOW, và SOW là đầu vào của quy trình Develop Project Charter (D). Vì được làm rõ dần (progressive elaboration), mô tả này có ít chi tiết ở giai đoạn đầu và chi tiết hơn ở các giai đoạn sau. A sai vì gắn nó với đầu ra của Develop Project Charter (điều lệ dự án), trong khi nó nằm trong đầu vào SOW của quy trình này. B sai vì gắn nó với đầu ra của quy trình Preliminary Scope Statement, trong khi product scope description được đưa vào từ SOW, một tài liệu đầu vào. C sai vì nói có nhiều chi tiết ngay từ giai đoạn đầu. Lưu ý: không phải mô tả phạm vi sản phẩm 'không bao giờ là đầu ra'. Về sau nó tiếp tục được chi tiết hóa và trở thành một thành phần của project scope statement (đầu ra của Scope Definition). Chỉ là trong các phương án của câu này, D mô tả đúng vị trí ban đầu và mức độ chi tiết của nó."
+ },
+ "Chapter 2 - Creating the Project Charter and Preliminary Scope Statement#1": {
+  "explanation_vi": "Theo PMBOK 3rd edition (đầu vào project SOW của Develop Project Charter): với dự án nội bộ, SOW do người khởi xướng hoặc nhà tài trợ cung cấp. Khi dự án được thực hiện theo hợp đồng cho khách hàng bên ngoài, SOW được nhận từ bên mua (buyer/customer), thường là một phần của hồ sơ mời thầu hoặc hợp đồng, nên A đúng. Nhà tài trợ (B) và quản lý dự án (C) không phải bên cung cấp SOW trong trường hợp này. Nhà thầu (D) là bên thực hiện dự án và nhận SOW từ bên mua. Lưu ý phân biệt với contract SOW trong quản lý mua sắm: ở đó SOW không bắt buộc do bên mua tự viết, mà có thể do bên mua hoặc bên bán soạn thảo (ví dụ bên bán đề xuất, bên mua xem xét và chấp thuận). Câu hỏi này nói về project SOW làm đầu vào cho điều lệ khi dự án làm theo hợp đồng, và khi đó bên mua là bên cung cấp."
+ },
+ "Assessment Test#7": {
+  "explanation_vi": "Đáp án theo Heldman là B. PMBOK 3rd nói người quản lý dự án nên được xác định và bổ nhiệm càng sớm càng tốt, luôn phải trước khi bắt đầu Lập kế hoạch, và tốt nhất là ngay trong lúc điều lệ dự án đang được xây dựng. Điều lệ dự án (đầu ra của Develop Project Charter) là văn bản chính thức ủy quyền cho dự án, nêu tên và trao quyền cho PM. Vì vậy Heldman chốt thời điểm bổ nhiệm chính thức là khi kết thúc quy trình Develop Project Charter. Phương án C (trước khi bắt đầu Lập kế hoạch) không mâu thuẫn với B, vì thời điểm kết thúc Develop Project Charter đã nằm trước Lập kế hoạch. Tuy nhiên C chỉ nêu giới hạn muộn nhất, còn B chỉ đúng quy trình gắn với việc bổ nhiệm, đúng điều câu hỏi hỏi ('trong quy trình nào'). Vì vậy B là đáp án tốt nhất. A quá sớm vì dự án chưa được ủy quyền. D cũng chỉ là một mốc gián tiếp giống C, không chỉ ra quy trình nơi PM được bổ nhiệm."
+ },
+ "Assessment Test#36": {
+  "explanation_vi": "Theo Heldman, hoạt động xây dựng nhóm (team building) nên bắt đầu sớm, ngay từ nhóm quy trình Lập kế hoạch, và tiếp tục suốt dự án. Ở đây một số thành viên đã cùng bạn làm việc ba tuần trong các quy trình Lập kế hoạch. Cần phân biệt: quy trình Phát triển nhóm dự án (Develop Project Team, có T&T team-building activities) thuộc nhóm Executing và diễn ra sau Acquire Project Team. Nhưng hoạt động xây dựng nhóm không phải chờ đến khi quy trình đó chính thức bắt đầu; nó có thể bắt đầu ngay khi các thành viên cùng làm việc trong giai đoạn Lập kế hoạch. Nhóm vừa được giới thiệu chính thức trong cuộc họp kickoff nên đang ở giai đoạn hình thành (forming), giai đoạn đầu tiên trong mô hình Tuckman (forming, storming, norming, performing). Storming là khi các thành viên bắt đầu va chạm, tranh giành vị trí, xảy ra sau forming. Vì vậy D đúng."
+ },
+ "Assessment Test#6": {
+  "explanation_vi": "Dấu hiệu quyết định là cấu trúc báo cáo và tính chất công việc. Bạn báo cáo cho trưởng bộ phận chức năng (Phó Giám đốc Nhân sự) và làm dự án bên cạnh công việc thường ngày của phòng ban (sàng lọc hồ sơ, sắp xếp phỏng vấn). Đó là đặc trưng của tổ chức chức năng, nơi quản lý chức năng nắm toàn quyền và dự án chỉ có người điều phối với rất ít quyền hạn. Bản thân chức danh 'điều phối viên dự án' (project coordinator) không đủ để phân biệt, vì trong ma trận yếu PM cũng chỉ đóng vai trò điều phối. Tuy nhiên đề không cho thấy dấu hiệu ma trận nào (không có PM chính thức, không báo cáo song song), nên A phù hợp nhất. Trong tổ chức theo dự án, nhân viên làm toàn thời gian cho dự án và báo cáo cho PM. Trong ma trận cân bằng, PM chính thức chia sẻ quyền hạn với trưởng bộ phận chức năng."
+ },
+ "Assessment Test#60": {
+  "explanation_vi": "Theo PMBOK 3rd edition, inspection (kiểm tra, một T&T của Perform Quality Control) còn được gọi là reviews, product reviews, audits và walkthroughs. 'Assessment' không có trong danh sách này, nên đáp án là B. Lưu ý phân biệt: 'audit' ở đây là tên gọi khác của inspection, tức kiểm tra trực tiếp sản phẩm/công việc xem có đạt yêu cầu hay không (thuộc QC). Nó khác với 'quality audit' (kiểm toán chất lượng), một T&T của Perform Quality Assurance: đánh giá độc lập, có cấu trúc, xem các hoạt động dự án có tuân thủ chính sách, quy trình và thủ tục của tổ chức hay không."
+ },
+ "Chapter 2 - Creating the Project Charter and Preliminary Scope Statement#12": {
+  "explanation_vi": "NPV giả định các dòng tiền được tái đầu tư ở mức chi phí vốn (cost of capital), còn IRR giả định tái đầu tư ở chính mức IRR, nên A đúng. C và D sai vì đó không phải giả định tái đầu tư của NPV. B không phải đáp án. Quy tắc ra quyết định theo NPV là: NPV dương thì chấp nhận được, NPV âm thì loại. Khi so sánh các dự án cạnh tranh nhau, dự án có NPV cao hơn thường được ưu tiên (giống như chọn dự án có IRR cao hơn). Nhưng phát biểu B biến điều đó thành quy tắc tuyệt đối cho mọi lựa chọn, bỏ qua yêu cầu NPV phải dương và các tiêu chí lựa chọn dự án khác. Câu hỏi nhắm vào giả định tái đầu tư của NPV, và A là phát biểu chính xác nhất."
+ },
+ "Chapter 5 - Risk Planning#13": {
+  "explanation_vi": "Thuê thiết bị tạm thời từ công ty địa phương làm giảm tác động của việc thiết bị đến trễ (tiến độ không bị đình trệ) xuống mức chấp nhận được. Đó là mitigation (giảm xác suất hoặc tác động của rủi ro), đáp án theo Heldman. Transfer là chuyển hậu quả và trách nhiệm của rủi ro sang bên thứ ba (bảo hiểm, hợp đồng giá cố định); ở đây công ty cho thuê không gánh rủi ro thay bạn. Avoid là thay đổi kế hoạch để loại bỏ hoàn toàn rủi ro. Acceptance có hai dạng: chấp nhận thụ động (không làm gì trước, xử lý khi rủi ro xảy ra) và chấp nhận chủ động (lập kế hoạch dự phòng hoặc khoản dự trữ để kích hoạt khi rủi ro xảy ra). Việc thuê thiết bị có nét giống một kế hoạch dự phòng. Tuy nhiên ở đây nhóm đã xác định chiến lược và thực hiện hành động cụ thể để trực tiếp giảm tác động của sự chậm trễ, chứ không chỉ chấp nhận rủi ro và để sẵn dự trữ. Vì vậy mitigate là lựa chọn phù hợp nhất."
+ },
+ "Chapter 12 - Applying Professional Responsibility#7": {
+  "explanation_vi": "Nguyên tắc chung trong trách nhiệm nghề nghiệp là từ chối quà tặng có giá trị khi nó có thể tạo ra, hoặc bị coi là tạo ra, xung đột lợi ích hay lợi ích cá nhân, nhất là quà từ nhà cung cấp đang đấu thầu hoặc đang được bạn đánh giá. Khi đó, nhận rồi báo cáo vẫn không xóa được xung đột. Tình huống này là ngoại lệ. Người tặng là đối tác ở nước ngoài mà bạn đang thực hiện hợp đồng, không phải nhà cung cấp đang cạnh tranh để được bạn chọn. Tặng quà cho đối tác kinh doanh lại là phong tục ở nước họ, nên từ chối có thể bị coi là xúc phạm và làm tổn hại quan hệ. PM cần tôn trọng khác biệt văn hóa: có thể nhận quà, nhưng phải lập tức báo cáo cho các bên phù hợp trong công ty (theo chính sách công ty) để minh bạch và tránh bị nghi ngờ về sau (D). A và C áp dụng nguyên tắc chung nhưng thiếu nhạy bén văn hóa trong bối cảnh phong tục này. B nhận mà không báo cáo nên thiếu minh bạch."
+ }
+}

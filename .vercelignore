@@ -1,0 +1,5 @@
+*.pdf
+scripts/
+.claude/
+README.md
+.gitignore

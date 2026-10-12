@@ -1,0 +1,63 @@
+[
+ {
+  "section": "Assessment Test",
+  "number": 43,
+  "from": "B",
+  "to": "A",
+  "note": "Both solvers and Heldman's key: the PM's greatest influence on quality is in Quality Planning (quality is planned in). Stored answer B (QA) is wrong."
+ },
+ {
+  "section": "Chapter 5 - Risk Planning",
+  "number": 4,
+  "from": "C",
+  "to": "D",
+  "note": "Wording 'regarding this question' with normal/lognormal setup points to D; Heldman's text treats C as true. Changed from C to D."
+ },
+ {
+  "section": "Chapter 9 - Measuring and Controlling Project Performance",
+  "number": 3,
+  "from": "A",
+  "to": "D",
+  "note": "PMBOK 3 lists qualified sellers list as an output of Request Seller Responses; the T&T is 'develop' the list. Stored A conflated them; both solvers chose D."
+ },
+ {
+  "section": "Chapter 9 - Measuring and Controlling Project Performance",
+  "number": 8,
+  "from": "B",
+  "to": "C",
+  "note": "Demanding compliance via change request is meaningless since the contract already binds; termination for cause via contract change control is a valid option. Both solvers chose C, matching Heldman logic."
+ },
+ {
+  "section": "Chapter 9 - Measuring and Controlling Project Performance",
+  "number": 20,
+  "from": "A",
+  "to": "B",
+  "note": "Status meetings are Performance Reporting tools for progress reporting; formal sign-off belongs to Scope Verification. Both solvers chose B, consistent with Heldman's chapter context."
+ },
+ {
+  "section": "Chapter 11 - Controlling Work Results and Closing Out the Project",
+  "number": 3,
+  "from": "A",
+  "to": "C",
+  "note": "A WBS change is itself a scope change, so A is circular. Heldman's key: schedule revisions usually follow changes to the agreed WBS (Schedule Control)."
+ },
+ {
+  "section": "Chapter 11 - Controlling Work Results and Closing Out the Project",
+  "number": 9,
+  "from": "D",
+  "to": "A",
+  "note": "Heldman (and PMBOK 3rd) say Contract Closure supports Close Project and is done first. Both solvers chose A, and the stored D's reasoning is weak."
+ },
+ {
+  "section": "Chapter 7 - Creating the Project Schedule and Budget",
+  "number": 8,
+  "explanation_fixed": true,
+  "note": "EXPLANATION: The Q8 figure has no G-to-E link, so path A-F-G-E-H does not exist. The stored explanation wrongly computes it as 33. The answer B is correct."
+ },
+ {
+  "section": "Chapter 10 - Monitoring and Controlling Change",
+  "number": 18,
+  "explanation_fixed": true,
+  "note": "EXPLANATION: The stored text wrongly derives -52 from 500/0.9 (which gives -55.6). -52 actually comes from 275 + 250/0.9. Answer D is correct."
+ }
+]
